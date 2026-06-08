@@ -60,9 +60,7 @@ toDo
 
 ### Login
 
-
 ![Login](screenshots/login.jpeg)
-
 
 ### Registro
 
