@@ -61,12 +61,12 @@ toDo
 ### Login
 
 
-![Login](screenshots/login.png)
+![Login](screenshots/login.jpeg)
 
 
 ### Registro
 
-![Registro](screenshots/registro.png)
+![Registro](screenshots/registro.jpeg)
 
 
 ## Autor
