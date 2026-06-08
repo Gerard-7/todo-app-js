@@ -56,6 +56,21 @@ toDo
 - Manipulación del DOM
 - Modularización del código
 
+## Screenshots
+
+### Login
+
+![Login](login.png)
+
+
+### Registro
+
+[imagen]
+
+### Gestión de tareas
+
+[imagen]
+
 ## Autor
 
 Gerard Figueroa
