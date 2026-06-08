@@ -60,16 +60,14 @@ toDo
 
 ### Login
 
-![Login](descargas/login.png)
+
+![Login](screenshots/login.png)
 
 
 ### Registro
 
-[imagen]
+![Registro](screenshots/registro.png)
 
-### Gestión de tareas
-
-[imagen]
 
 ## Autor
 
