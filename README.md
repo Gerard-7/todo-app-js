@@ -56,16 +56,6 @@ toDo
 - Manipulación del DOM
 - Modularización del código
 
-## Screenshots
-
-### Login
-
-![Login](screenshots/login.jpeg)
-
-### Registro
-
-![Registro](screenshots/registro.jpeg)
-
 
 ## Autor
 
