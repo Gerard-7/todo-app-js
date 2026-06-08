@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>toDo App</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div id="MiApp"></div>
+
+    <!-- Login -->
+    <template id="view-login">
+        <div id="contenido">
+            <main>
+                <section>
+                    <h1 >Login</h1>
+                    <label for="txtUser">Usuario</label>
+                    <input id="txtUser" type="text">
+                    <br>
+                    <label for="txtPass">Password</label>
+                    <input id="txtPass" type="password">
+                    <br>
+                    <input type="button" value="Login" id="btnLogin">
+                    <br>
+                    <input type="button" value="Registrarse" id="btnRegistro">
+                    <p id="alert"></p>
+                </section>
+            </main>
+        </div>
+    </template>
+
+     <!-- Registro -->
+    <template id="view-registro">
+        <div id="contenido">
+            <main>
+                <section>
+                    <h1 >Registro</h1>
+                    <label for="txtNombre">Nombre</label>
+                    <input id="txtNombre" type="text">
+                    <br>
+                    <label for="txtUser">Usuario</label>
+                    <input id="txtUser" type="text">
+                    <br>
+                    <label for="txtPass">Password</label>
+                    <input id="txtPass" type="password">
+                    <br>
+                    <input type="button" value="Registro" id="btnRegistrarse">
+                    <br>
+                    <input type="button" value="Login" id="btnLogin">
+                    <p id="alert"></p>
+                </section>
+            </main>
+        </div>
+    </template>
+    <script src="js/utils/buscar.js"></script>
+    <script src="js/utils/validaciones.js"></script>
+    <script src="js/utils/navegacion.js"></script>
+    <script src="js/page/login.js"></script>
+    <script src="js/page/registro.js"></script>
+    <script src="js/clases/tarea.js"></script>
+    <script src="js/clases/usuario.js"></script>
+    <script src="js/clases/system.js"></script>
+    <script src="js/script.js"></script>
+</body>
+
+</html>
